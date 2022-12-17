@@ -1,0 +1,5 @@
+12/16/2022 06:53:13 PM - LoggerDemoConfig - DEBUG - Debug Message!!
+12/16/2022 06:53:13 PM - LoggerDemoConfig - INFO - Info message!!
+12/16/2022 06:53:13 PM - LoggerDemoConfig - WARNING - It is a warning!!
+12/16/2022 06:53:13 PM - LoggerDemoConfig - ERROR - There is an error!!
+12/16/2022 06:53:13 PM - LoggerDemoConfig - CRITICAL - Things went critical here!!

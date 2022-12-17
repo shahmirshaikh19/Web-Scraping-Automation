@@ -1,0 +1,4 @@
+17/12/2022 03:50:42 PM: - method3 - INFO: Info message!!
+17/12/2022 03:50:42 PM: - method3 - WARNING: It is a warning!!
+17/12/2022 03:50:42 PM: - method3 - ERROR: There is an error!!
+17/12/2022 03:50:42 PM: - method3 - CRITICAL: Things went critical here!!
